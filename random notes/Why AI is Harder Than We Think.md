@@ -10,4 +10,4 @@
 - Interdisciplinary collaboration is essential to advancing AI research.
 - Achieving truly intelligent machines will require overcoming these challenges.
 
-# Humman (Gigi) Summary
+# Human (Gigi) Summary
