@@ -9,3 +9,5 @@
 - Lack of progress in natural language understanding and common sense reasoning suggests that we still have a long way to go before achieving human-level AI.
 - Interdisciplinary collaboration is essential to advancing AI research.
 - Achieving truly intelligent machines will require overcoming these challenges.
+
+# Humman (Gigi) Summary
