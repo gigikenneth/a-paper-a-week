@@ -6,4 +6,4 @@
 - 8th March: [AI in Africa: Key Concerns and Policy Considerations for the Future of the Continent](https://afripoli.org/ai-in-africa-key-concerns-and-policy-considerations-for-the-future-of-the-continent) | [notes](https://github.com/gigikenneth/a-paper-a-week/blob/main/random%20notes/March/AI%20in%20Africa:%20Key%20Concerns%20and%20Policy%20Considerations%20for%20the%20Future%20of%20the%20Continent.md)
 - 9th March: [Artificial intelligence in Africa: challenges and opportunities](https://researchportal.northumbria.ac.uk/ws/portalfiles/portal/31309999/AI_in_Africa_Opportunities_and_Challenges_Paper_68_Manuscript.pdf)
 - 10th March: [Artificial intelligence technologies and their challenges in Africa](https://financialmarketsjournal.co.za/artificial-intelligence-technologies-and-their-challenges-in-africa/)
-- 10th March: [Harnessing AI for business development: a review of drivers and challengesin Africa](https://www.tandfonline.com/doi/full/10.1080/09537287.2022.2069049)
+- 10th March: [Harnessing AI for business development: a review of drivers and challenges in Africa](https://www.tandfonline.com/doi/full/10.1080/09537287.2022.2069049)
