@@ -7,3 +7,4 @@
 - 9th March: [Artificial intelligence in Africa: challenges and opportunities](https://researchportal.northumbria.ac.uk/ws/portalfiles/portal/31309999/AI_in_Africa_Opportunities_and_Challenges_Paper_68_Manuscript.pdf)
 - 10th March: [Artificial intelligence technologies and their challenges in Africa](https://financialmarketsjournal.co.za/artificial-intelligence-technologies-and-their-challenges-in-africa/)
 - 10th March: [Harnessing AI for business development: a review of drivers and challenges in Africa](https://www.tandfonline.com/doi/full/10.1080/09537287.2022.2069049)
+- 13th March: [The Exploited Labor Behind Artificial Intelligence](https://www.noemamag.com/the-exploited-labor-behind-artificial-intelligence/)
